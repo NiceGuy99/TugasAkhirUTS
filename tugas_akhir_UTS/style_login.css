@@ -1,0 +1,78 @@
+body{
+	background-color:#404040;
+	font-size:25px
+	color:#444;
+	font-family: Cambria;
+}
+ 
+h1{
+	text-align: center;
+	font-weight: bold;
+	background-color: white;
+	padding: 20px 10px;
+	border-radius: 10px;
+	border: 10px solid #0000;
+	margin-bottom: 10px;
+	width: 520px;
+	margin: 10px auto;
+	border: 1px solid #0000;
+}
+ 
+.tulisan_login{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 18pt;
+	font-weight: bold;
+}
+ 
+.kotak_login{
+	width: 500px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+	border-radius: 8px;	
+	margin-bottom: 5px;
+	margin-top: 10px;
+}
+ 
+label{
+	font-size: 15pt;
+	font-weight: bold;
+}
+ 
+.form_login{
+	
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	
+}
+ 
+.tombol_login{
+	background: #404040;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: 1px solid #0000;
+	border-radius: 10px;
+	padding: 10px 20px;
+}
+ 
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}
+div.bawah{
+	background-color:#737373;
+	border: 1px solid #0000;
+	border-radius: 10px;	
+	margin-bottom: 50px;
+	color: white;
+	text-align: center;
+	font-size: 8pt;
+
+}

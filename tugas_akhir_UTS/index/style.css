@@ -1,0 +1,121 @@
+body{
+	background-color:#404040;
+	font-size:25px
+	color:#444;
+	font-family: Cambria;
+}
+.content{
+	width: 60%;
+	margin: 5px auto;
+	align-self: center;
+}
+
+/*header*/
+header{
+	background-color: white;
+	padding: 20px 10px;
+	border-radius: 10px;
+	border: 10px solid #0000;
+	margin-bottom: 5px;
+
+}
+header h1 {
+	font-size: 40pt
+}
+h2 {
+	text-align: center;
+}
+ 
+.gambar{
+	width: 275px ;
+	float: left;
+	margin-right: 10px;
+	border-radius: 10px;
+
+}
+.profil {
+	width: 300px ;
+	float: left;
+	margin-right: 10px;
+	border-radius: 10px;
+}
+h3.beranda{
+	font-size: 15pt;
+	text-align: justify;
+
+}
+header h1.judul,
+header h3.deskripsi{
+	text-align: center;	
+}
+
+.tabel {
+	margin: 15px auto 15px;
+ 	padding: 10px; 
+ 	width: 400px;  
+ 	box-sizing : border-box;;
+	font-size: 11pt;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+.menu{
+	background-color:#737373;
+	border: 2px solid #0000;
+	border-radius: 8px;	
+	margin-bottom: 5px;
+}
+div.menu ul {
+	list-style:none;
+	overflow: hidden;
+}
+ 
+ 
+div.menu ul li {
+	float:left;		
+	text-transform:uppercase;
+	text-align: center; 
+}
+ 
+div.menu ul li a {
+	display:block;	
+	padding:0 20px;
+	text-decoration:none;
+	color:white;
+	font-family: Cambria;
+	font-size:14px;
+	font-weight:400;
+	transition:all 0.3s ease-in-out;
+	margin: 5px auto;
+}
+ 
+div.menu ul li a:hover,
+div.menu ul li a.hoverover {	
+	cursor: pointer;	
+	color:#fff;
+}
+ 
+ 
+div.badan{
+	background-color: white;
+	border-radius: 5px;
+	border: 1px solid #f0f0f0;
+	margin-bottom: 10px;
+}
+ 
+div.halaman{
+	text-align: center;
+	padding: 30px 20px;	
+	align-content: center;
+}
+div.bawah{
+	background-color:#737373;
+	border: 1px solid #0000;
+	border-radius: 5px;	
+	margin-bottom: 5px;
+	color: white;
+	text-align: center;
+	font-size: 10pt;
+}
+img.profil
+
