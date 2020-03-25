@@ -11,7 +11,7 @@
 
 	<form method="get" action="http://localhost:8181/praktikumpemweb/tugas_akhir_UTS/index/redirect.php">
 		<div class="kotak_login">
-			<img src="kos_logo.png" width="50" height="50">
+			<img src="index/kos_logo.png" width="50" height="50">
 		<p class="tulisan_login">Silahkan Mengisi data Dibawah ini</p>
  
 		<form>
