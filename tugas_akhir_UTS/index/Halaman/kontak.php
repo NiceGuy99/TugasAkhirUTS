@@ -1,4 +1,4 @@
 <div class="halaman">
 	<h2>Kontak Pemilik</h2>
-	<h3 class="beranda">-> Telfon/Sms : <br>-> Whatsapp : <br>-> Twitter : <br>-> Instagram : <br></h3>
+	<h3 class="beranda">-> Telfon/Sms : 087854943868  <br>-> Whatsapp : 087854943868  <br>-> Twitter : @mykosan<br>-> Instagram : @mykosan<br></h3>
 </div>
